@@ -417,3 +417,8 @@ ModMeshStep:
   api: 3.0
   author: Miha Zivkovic
   repo_url: https://github.com/exoticatom/ModMashStep.git
+MQTTOut:
+  description: MQTT Outbound client, publishing sensor data to a broker
+  api: 3.0
+  author: Mixed
+  repo_url: https://github.com/jfarcher/cbpi-MQTTClient
